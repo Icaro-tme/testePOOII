@@ -1,0 +1,8 @@
+/* CSS */
+.tabela tr {
+    min-height: 10px;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
