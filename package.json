@@ -6,9 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "predev": "npx tsc",
-    "dev": "node ./dist/app.js",
-    "start": "node ./dist/app.js && npm run open-html",
-    "open-html": "start index.html"
+    "dev": "node ./dist/app.js"
+
   },
   "keywords": [],
   "author": "",
